@@ -1,0 +1,4 @@
+Pattern found at Line number :1 Indices: 35 
+Pattern found at Line number :2 Indices: 27 
+Pattern found at Line number :3 Indices: 26 
+Pattern found at Line number :10 Indices: 0 
